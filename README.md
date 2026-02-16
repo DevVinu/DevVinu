@@ -1,37 +1,39 @@
-# 👋 Hello! I'm Vinu
+# 👋 Hello, I'm Vinu
 
-🎓 I'm currently pursuing a **Diploma in Software Engineering**
+🎓 I am currently pursuing a **Diploma in Network Engineering**, with a strong foundation in software engineering and programming.
 
-## 💻 Tech I'm Comfortable With
+## 💻 Technical Background
 
-- 💡 **Languages**: C#, Java, C
-- 🧰 **Tools & IDEs**: Visual Studio, NetBeans
-- 🗄️ **Databases**: MySQL, MS SQL
-- 🌐 **Frameworks**: .NET (WinForms, Console)
+- **Programming Languages**: C#, Java, C  
+- **Networking**: Network fundamentals, basic infrastructure concepts  
+- **Tools & IDEs**: Visual Studio, NetBeans  
+- **Databases**: MySQL, Microsoft SQL Server  
+- **Platforms & Frameworks**: .NET (WinForms, Console Applications)
 
-## 🚀 What I'm Learning
+## 🚀 Currently Learning
 
-- Full-stack development basics
-- Git & GitHub for version control
-- Software engineering best practices
+- Networking fundamentals and infrastructure  
+- Network configuration and troubleshooting basics  
+- Git & GitHub for version control  
+- Software engineering best practices  
 
 ## 🔨 Projects
 
-- ✅ Tic Tac Toe game using C# WinForms
-- 🔄 Mini database projects using MySQL
-- 💡 More coming soon!
+- **Tic Tac Toe Game** – C# WinForms  
+- **Mini Database Projects** – MySQL  
+- Networking labs and practice projects (ongoing)
 
-## 🌱 Goals
+## 🌱 Career Goals
 
-- Build real-world projects
-- Learn web development (HTML, CSS, JS, and frameworks)
-- Improve problem-solving and coding skills
+- Build a strong career in network engineering  
+- Combine software development knowledge with networking skills  
+- Gain hands-on experience with real-world systems and infrastructure  
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- GitHub: [DevVinu](https://github.com/DevVinu)
-- LinkedIn: _[error]_
+- **GitHub**: [DevVinu](https://github.com/DevVinu)  
+- **LinkedIn**: Coming soon  
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.”_
+> _"Code is like humor. When you have to explain it, it’s bad."_  
