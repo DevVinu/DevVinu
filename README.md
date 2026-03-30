@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vinu
 
-🎓 I am currently pursuing a **Diploma in Network Engineering**, with a strong foundation in software engineering and programming.
+🎓 I am currently pursuing a **Diploma in Software Engineering**, with a strong foundation in software engineering and programming.
 
 ## 💻 Technical Background
 
