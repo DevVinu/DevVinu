@@ -1,38 +1,47 @@
-&###&&&&########&&&&&######&@&&###&&#&##&&&&&&&&######&&@@@&&&&&&&&&&&
-5YYY55P5YJYYYJJYY5555YYYYYJYPGP5555P55YY5PBBBBG5555YY5PPGB&#GPPPP55PGB
-5YYY55P5YYYYYJJY5PP55YJYYYJYPBBGP5YP55YJYPGBBG5YP555Y5GB#B#BGGPGP55GBB
-5YYYYY55YYY5YYJY55PP5YJYYYJYP#BPP5YP5YYJY5P555P55P55Y5PB##&G5GPGG55PGB
-GYYYY5555YJ5YYJYY555YYJJYYYY5GB5YYY55YYJJYY5GGP5PGP5YYPGBB&PYGGGGP5PGB
-GYYYYY5YYYJYYYJJYYY555YJY55Y5BBG55YGP5Y5PGB##BBPPPP5YYPGBB&P5GGGPPY5GB
-P5YYYY555YJYYJJJYY5555YJY55YYG###&&@@&#@@@@@@@@&BGP55YPGBB#PYGGGGPY5GB
-PP5YYY5P55YYYYYJYY55P5YJY55YP&@@@@@@@@@@@@@@@@@@@@#P5Y5GBGB5JPGGGP5YPG
-PG55YY5PGPYY5YYJJY55P5YJY5PB@@@@@@&@@@@@@@@@@@@@@@@&GY5GGGGYJYGGGGPYPG
-PGP5YY5PGP5Y55YYJY55PP5YY5&@@@@@@&##BPPPPPPB#&&@@@@@&5YGGBBYJJPBGGPY5G
-5GP55YYPPPPYY5YYJYY5PP5YJP@@@@&@&G5YYJJJJJJYY55PG&@@@GYGGGBYJJYBGGP5YP
-5PG55YJ5PGPYY5YYJJY5555YJP@@@@@&GYYJJJJJJYYYYYY5PG#@@@BBGGGPJJJ5BGGPY5
-YPGP55YY5PP5Y55YJJY55P55JY#@@@#PYY55555YYYYYYYY5PGB&@&&&#BGBYJJJGGGP5Y
-Y5PP55YY5PGPY55YYJY55P55YJG@@&5Y55555PBBBG5YY5G###&&&&&&&#BB5JJJPBGG5Y
-YYPP555JYPGPYY55YJJY5PP5YJYP&GYYY5PGB#GBP5YYB#B##B#&##&&&&##PJJJYGGGPY
-5J5P555YJ5GG5YP5YYJY5PP5YJJJG5YYYJJYY555YYJYBBPG##&&##&&&&##GJJJJGGGP5
-5YYPP555Y5GGPY5P5YJY5PPP5YJJP5YYJJJJJJJJJJJJPG555PG###&&&##BBYJJJ5GPP5
-P5J5PPPP5JPGG55P5YJJ5PPP5YJJ5P5YJJJJJJJYYYJJ5BPYY5B####&&&#B#5JJJJGPP5
-PP5PPPPPP55GBPYPP5YJY5PP5YJYPB55YJJJJYYYPPPP##PY5P#&####&&#GBGJJJJPP5Y
-PPGGGGGBBBBBBBBBGPYJJ5PPP5JYPBGP5YYJ5BGPPGGB&&#BPB@&##&&#&GPGB5JJJ5P55
-GGBBB##&&&&&&@@&BG5JJ5PPP5YJ5GGBG5YYP5Y555PGBBB##&@&#&&&&&B5PBGJJJYGP5
-BB##&&&&&&&&######GY?Y5PPPYJYG5P##GPPYYYPBBBBG#&@@@@&&&&&#BG5PB5YJJPGG
-B#&&&&&&&&&#########5J5PPP5Y5#BYYG##BGPPGBB#B&@@@@@@@@&&BBBBBBBBBBBBBB
-#&&&&&&#&#&&&&#####@@GPB###&@@#5YY5PB#&&&&&@@@@@@@@@@@&##BB#B#########
-&&&&&&&&&#&&#&&&&&&@@@@@@@@@@#GPYYYY55PPPPGBB&@@@@@@@@@@@&&&##########
-&##&&&&&&&&&&@@@@@@@@@@@@@@@#55P5YJYYYYYYY5PB&@@@@@@@@@@@@@@@&&###&&&&
-#&&&&&&&&&&@@@@@@@@@@@@@@@@@BY555YYYYYYYY55B@@@@@@@@@@@@@@@@@@@&&@@@@@
-&&&&&&&&&@@@@@@@@@@@@@@@@@@@BYYY55YYYYYY5G#@@@@@@@@@@@@@@@@@@@@@@@@@@@
-&&&&&@@@@@@@@@@@@@@@@@@@@@@@#YJYY5YYYYYG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-&&&@@@@@@@@@@@@@@@@@@@@@@@@@@BYJYYYYJY#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BJYYJYG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@5JJP#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#YB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  <p align="center"><!-- Optional banner goes here--> </p>
+<div>
+<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
+<h2> // About me </h2>
+<ul>
+<li>🎓 I’m also pursuing a bachelors degree in <strong>software engineering</strong></li>
+</ul>
+<h2>  // Skills  </h2>
+<ul>
+<li>
+<h3> programming &amp; markup languages </h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css">
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="sass">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="js">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="python">
+<ul>
+<li>
+<h4> currently learning </h4>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="ts">
+</li>
+</ul>
+</li>
+<li>
+<h3>  frameworks &amp; libraries </h3>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="react">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="bootstrap5">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="tailwind">
+</li>
+<li>
+<h3> tools </h3>
+  <img src="https://img.shields.io/badge/figma-7434a4?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
+<img src="https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=" alt="photoshop">
+<img src="https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=f8a829" alt="illustrator">
+<ul>
+<li>
+<h4> currently learning </h4>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="mongodb">
+</li>
+</ul>
+</li>
+</ul>
+<!---
+
+--->
+<hr>
