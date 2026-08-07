@@ -2,19 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=0a77b6&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinu;I'm+passionate+about+building+stuff;Curious+Problem+Solver" alt="Hi, I'm Vinu. I'm passionate about building stuff." />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevVinu&color=0a77b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhRVb44g/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmaqk73a11k63rsvtdg8p30qol13&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" alt="Animated Developer Graphic" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhRVb44g/giphy.gif" width="120" alt="Animated Developer Graphic" style="margin-right: 15px;" />
+  <img src="https://media.giphy.com/media/i3L6DIU62k4Yc22sA0/giphy.gif" width="150" alt="Animated Pixel Dragon" />
 </p>
 
 <p align="center">
   Welcome to my digital workshop! 🚀 
   <br><br>Always building, always learning.
 </p>
-
----
-
-
 
 ---
 
@@ -51,7 +51,7 @@
 
 ---
 
-
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevVinu&theme=react-dark" alt="Activity Graph" width="90%" />
