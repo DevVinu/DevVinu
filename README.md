@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub! I love bringing complex ideas to life. Whether I am engineering seamless desktop applications with robust C# database connections, designing intuitive drag-and-drop interfaces, or diving into the mechanical intricacies of how petrol engines and valves operate, I am always building and learning.
+  Welcome to my digital workshop! 🚀 <br><br>
+  I am constantly learning, exploring new technologies, and building solutions that bridge the gap between hardware, software, and user experience. 
 </p>
 
 ---
