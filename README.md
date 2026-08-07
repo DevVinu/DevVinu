@@ -14,7 +14,8 @@ vinu@mainframe:~$ cat about_me.txt
 > 
 > STATUS: Always building, always learning
 ```
-<br><br><br>
+<img align="center" alt="Coding" width="3000" height="1500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+
 <h2 align="center">🚀 Tech Stack Executables</h2>
 
 <!-- 1. PROGRAMMING LANGUAGES -->
