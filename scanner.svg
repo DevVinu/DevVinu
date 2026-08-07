@@ -1,28 +1,19 @@
-<svg width="1000" height="20" viewBox="0 0 1000 20" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="10" viewBox="0 0 1000 10" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Creates the fading tail effect transitioning from Green to Cyan -->
+    <!-- Dual-color gradient -->
     <linearGradient id="laser" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00FF41" stop-opacity="0" />    <!-- Transparent Green tail -->
-      <stop offset="30%" stop-color="#00FF41" stop-opacity="1" />   <!-- Solid Glowing Green -->
-      <stop offset="70%" stop-color="#00FFFF" stop-opacity="1" />   <!-- Solid Glowing Cyan -->
-      <stop offset="100%" stop-color="#00FFFF" stop-opacity="0" />  <!-- Transparent Cyan tip -->
+      <stop offset="0%" stop-color="#00FF41" stop-opacity="0" />
+      <stop offset="40%" stop-color="#00FF41" stop-opacity="1" />
+      <stop offset="80%" stop-color="#00FFFF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#00FFFF" stop-opacity="0" />
     </linearGradient>
-    
-    <!-- Creates the neon glow -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
   
   <!-- Faint background track -->
-  <rect x="0" y="9" width="1000" height="2" fill="#00FF41" opacity="0.1" />
+  <rect x="0" y="4" width="1000" height="2" fill="#00FF41" opacity="0.15" />
   
-  <!-- The moving glowing dual-color laser -->
-  <rect y="8" width="300" height="4" fill="url(#laser)" filter="url(#glow)">
-    <animate attributeName="x" from="-300" to="1000" dur="2s" repeatCount="indefinite" />
+  <!-- The moving dual-color laser -->
+  <rect y="3" width="400" height="4" fill="url(#laser)">
+    <animate attributeName="x" from="-400" to="1000" dur="2s" repeatCount="indefinite" />
   </rect>
 </svg>
