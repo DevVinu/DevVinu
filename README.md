@@ -1,10 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=0a77b6&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinu;I'm+passionate+about+building+stuff;C%23+%26+Desktop+App+Developer;Curious+Problem+Solver" alt="Hi, I'm Vinu. I'm passionate about building stuff." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=0a77b6&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Vinu;I'm+passionate+about+building+stuff;Curious+Problem+Solver" alt="Hi, I'm Vinu. I'm passionate about building stuff." />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevVinu&color=0a77b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhRVb44g/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmaqk73a11k63rsvtdg8p30qol13&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" alt="Animated Developer Graphic" />
@@ -17,11 +14,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevVinu&theme=radical&margin-w=15&no-frame=true" alt="Vinu's Trophies" />
-</p>
 
 ---
 
@@ -58,12 +51,7 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevVinu&show_icons=true&theme=radical" alt="Vinu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVinu&layout=compact&theme=radical" alt="Vinu's Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevVinu&theme=react-dark" alt="Activity Graph" width="90%" />
