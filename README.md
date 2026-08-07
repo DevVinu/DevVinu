@@ -21,7 +21,7 @@ vinu@mainframe:~$ cat about_me.txt
 
 
 <p align="center">
-  <img alt="Coding" width="600" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+  <img alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 </p>
 
 <h3 align="center">🚀 Tech Stack Executables</h3>
