@@ -1,49 +1,49 @@
-# Hi there, I'm Vinu 👋
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
-
----
-
-## 🚀 About Me
-
-* 🔭 I’m currently focused on building robust and scalable desktop applications.
-* 💻 I specialize in seamless backend connectivity and database integration.
-* 🌱 I’m currently learning [Add a new technology or framework you are studying, e.g., cloud deployments].
-* 📫 How to reach me: **[Your Email]** or **[Your LinkedIn URL]**
-
-## 🛠️ Tech Stack & Tools
-
-### Languages & Databases
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Insert Another Language](https://img.shields.io/badge/Insert_Language-%23323330.svg?style=for-the-badge)
-
-### IDEs & Version Control
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### Secure Desktop Authentication System
-A complete desktop application featuring a fully integrated user login and registration system. 
-* Designed and built utilizing **C#** and **Visual Studio**.
-* Engineered secure backend data handling with a **SQL database** connection.
-* [Link to Repository]
-
-### [Project Name 2]
-A brief description of another project you have built or are currently building.
-* Key technologies used: **[Tech 1]**, **[Tech 2]**
-* [Link to Repository]
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+Y5YY5555555YYYYYYYJYYYY555PP5YYYYYYYYY5GBG5YY5555P5555YY5PGBB#BBBGPY5555YYYY55PG#&@&GPPPPPP555PPGGB
+5YYYJ5PPPP55YYY5YYYJJYY555YYYYYJYY55YJJYYPBBGPP5Y5G55YYYJY5PGBBBBBG55GP555YY5PGGGPG&&GBGGPGGP5YPGBBB
+PYYYJY55PP55YYJ5YYYJJYY55PPP55YYJYYYYYJYPGBBGPP5Y5G55Y5YJY5PGBBBGP5Y5G55555Y5PGB####&PBGPPPGP5Y5GGBB
+5YYYJYYYYYYYYYJY5YYJJYY55PPPP55YJYY5YYJYP##BGGP5YYP5555YJY55GGP5YY55Y5PP5P5Y5PGB###&&YPGPPGGG5Y5PGBB
+PYYYYYY55P555YJY5YYYJJYY5PPPP5YYJJJYYYJY5G#B5Y5YYYP5YYYYJJY5YYYPBBGP5GGP555Y5PGBBB#&&Y5GGPGBGP55PGBB
+G5YYYYY555555YJY5YYYJJYY55YYYJJYJJY555YY5PGBG5YYYY555YYYJJJYYPPGGPP55GGPP55YY5PBBBB&&YYGGGGGGP5YPGBB
+BPYYYYYYYYYYYYJJYYYYJJJYJYY5555YJJY555YY5GBBBPP5YJPP5YJJY55PGB##BBGP5PGP555YY5PGBBB&#J5BGGGGPP5YPGBB
+55YYYYYY555YYYJJYYYJJJJJYY55555YYJYY55YYYPB#BGGGGB&&&#GB&@@@@&&@&&&BPPGPP55YY5PBBBB##JYGGGGGGP5Y5PGB
+PG55YYJYY5555YYJYYJYYJJYY555555YYJYY55YYY5B&&@@@@@@@@@@@@@@@@@@@@@@@@&BGP555Y5GBBBB#BJJPGGGGGP5Y5PGB
+PGP5YYYY55P555YJJYYYYJJYY555PP55YJYY555Y5#@@@@@@&@@@@@@@@@@@@@@@@@@@@@@@#P55Y5PGBBGBGJJYGGGGGPPY5PGB
+PGP555YJY5PGPP5JY55YYYJJY5555555YJJY555G&@@@@@@@@&&@@@@@@@@@@@@@@@@@@@@@@#G5YYPGBGGGPJJJPBGGPGG5YPGB
+PGG555YJY5PPPP5YY55YYYJJYY55PP55YJJY5G#@@@@&@@@@@&&@&&&&&&&&&@@@@@@@@@@@@@@GYYPGBGGBPJJJYBBGGGP5Y5PG
+PPGP55YYY5PPGPP5J55YYYJJYY555PP55YJY5&@@@@@@@@@@##BBPP5555555PB#&&&@@@@@@@@#YYPGBGBBPJJJJGBGGGP5YYPG
+5PGP555YJ5PPGPP5YY55YYYJJYY55PP55YJY5&@@@@@&@@@#P55YYJJJJJJJJJYY55PGG#&@@@@@PJPGBGBBPJJJJYBBGGPPYY5P
+5PGG555YJY5PPGP5YJ55YYYJJYY55PP55YJJP@@@@@@&&&#G5YJJJJJJJJJJJYYYYYY55PG&@@@@#P5GBGGGPJJJJJPBGGGP5Y5P
+Y5PGP555YJ55PPPPYJ55YYYJJYY555555YYJP@@@@@@@@&G5YYJJJJJJJYYYYYYYYY555PGB&@@@@&#BBGGGGYJJJJJGBGGGPYYP
+Y5PGP555YJY5PGPP5JY55YYYJJY555PP55YJYB@@@@@@#PYYYY555YYYJJJYYYYYYYYY5PGB#@@&&&&&#BGGBPJJJJJ5BGGPP5Y5
+JY5PG5555YJ55PGP5YY555YYJJYY55PP55YJJP@@@@&PYY5PPPPPGGBBGGG5YYYYYY5PGBB##&@&&&&&#&#GBBJJJJJYGGGPP5YY
+YY5PGP555YJY5PGGPYJ555YYJJJY55PP55YJJY#@@@GYYYYYY55555PGBBBGP5Y5PB#&&&##&@&#&&&&#&&BB#YJJJJJGBGGGP5Y
+YJYPPP5555JJ5PGGP5J5P55YYJJY555PP55JJYYP&&5YYYYYPGGG#&GGBGP5YYYG&#BBBBBB#&###&@&&&&#B#PJJJJJ5GGGGG5Y
+5YY5PP5555YJY5GGP5YYP55YYJJY555PP55YJJJJGBYYYYYYYY55PPPPP5YYYJ5B#GPG&&#&&&###&&@&&&###GJJJJJYGGGGGPY
+5YJYPP55P55YJ5GGGP5JPP55YYJJ555PPP5YJJJYPPYYYYJJJJJJJYYYJJJJJJYGBGPPPGBB#####&&&&&&#B#BYJJJJJPGPPPP5
+55JY5PP55P5YJYPGGP5J5PP5YYJJY55PPP5YJJJJ5PYYYYJJJJJJJJJJJJYJJJYPBP55555PB#####&&@&##BB#5JJJJJYGPPPP5
+55YJYPPPPP55YJ5GGGPYYPP55YJJY5PPPP55YJJJYG5YYJJJJJ??JJJJYYJJJJJ5BGYYYY5PB#&####&&&&#BB#PJJJJJJPGPP5Y
+PP5YY5PPPPPP5JYPGGG5YPPP5YYJJ55PPPP5YJJY5BG5YYJJJJJJJJJJYYYYYJYPBBGYYY5G#&######&&&&BB#BJJJJJJPGPP5Y
+PPPPPPPPPPPPP5YPGBGPJPPP55YJJY5PPPP5YJJYPBG55YYJJJJJJYYY5PPPPPB&&BPYY5PB&&######&&&BGGB#5JJJJJ5P555Y
+PPPPGGGPGGGGBBBBBBBGGGGGP5YJJY5PPPP55YJY5GBPP5YYYJJYPBBGPPGGGPB&&&BBPPG#@&######&&&GPGG#GJJJJJYP555Y
+GGGGGGBBB##########&@@#BGP5Y?J55PPPP5YJJ5PGBGP55YYJYBGPPPPPPPGB###&&BG#@@&##&&&&##&GYPGB#5JJJJYGGPP5
+BGGBBB####&&&&&&&&@@@@&BBG5YJJY5PPPP5YJJYPGPB#BP55Y5PYJYYYY55PPBBGB#B&@@@@&&&&&&&&&#5YPGBGJJJJJ5GPP5
+BBB####&&&&&@&&&#########BPYJ?Y55PPPP5YJYPG55G&#GPPGPYYY5PGB###BGG#&@@&&&@&&&&&&@&#BBP5PGB5JJJJJGGGP
+BB##&&&&&@@&&&&&#####BB###BB5?J55PPGP5YJJPBGYYP#&#BPP55YY5GBBBGGB&@@@@@@@@@@&@@&#BBBBBGGGGGGGPPPGBBB
+B#&&&&@@&&&&&&&&########B#B&@P?Y5PPGPP5YP#@#5YYYPB####BBB##BB##&&@@@@@@@@@@@@@&#BBBBBBBBBBBBB##B##BB
+#&&&@@&&####&&#&&#&&###&###&@@BYPGB##&&&@@@#5YYYYY5PB&&&&&@@@@@@@@@@@@@@@@@@@&####BB##BB############
+&&@@&&#&#&&&&##&&&&&&&&&&#&@@@@&&@@@@@@@@@&GP5YYYY555PGGBBB###&&&@@@@@@@@@@@@@@@&&&#################
+&&&&&&&&&&&&&&&&&#&&&&&&@@@@@@@@@@@@@@@@@#PPPPYYJYYYYYYYYYYY55PGB@@@@@@@@@@@@@@@@@@@@&&&#######&&##&
+####&&&&&&&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@&P555P5YYYYYYYYYYYY555PB&@@@@@@@@@@@@@@@@@@@@@@@&#####&&&&&&
+#&#&&&&&&&&&&#&&&@@@@@@@@@@@@@@@@@@@@@@@#YYY55PYYYYYYYYYYY5555B&@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&@@@@@@
+&&&&&&&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@#5555Y55YYYYYYYYYYY55#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+&&&&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5YYYYY5YYYYYYYYYYPB&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&5JYYYY55YYYYYYYP#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#YJJYYYYYYYYY5#@@@&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#YJYYYYYYJJY#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BYYYYYYJYG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@PJYYJYG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#YJJ5#@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GJP@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
