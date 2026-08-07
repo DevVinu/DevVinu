@@ -15,6 +15,10 @@ vinu@mainframe:~$ cat about_me.txt
 > 
 > STATUS: Always building, always learning
 ```
+<p align="center">
+  <img src="scanner.svg" alt="Animated Glowing Line" width="100%" />
+</p>
+
 
 <p align="center">
   <img alt="Coding" width="600" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
@@ -89,3 +93,7 @@ vinu@mainframe:~$ cat about_me.txt
     <img alt="github contribution grid snake animation" src="https://github.com/DevVinu/DevVinu/blob/output/github-contribution-grid-snake.svg?raw=true">
   </picture>
 </p>
+<p align="center">
+  <img src="scanner.svg" alt="Animated Glowing Line" width="100%" />
+</p>
+
