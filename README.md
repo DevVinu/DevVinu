@@ -11,7 +11,7 @@ vinu@mainframe:~$ cat about_me.txt
 > Loading profile data...
 > 100% ████████████████████
 > 
-> Welcome to my digital workshop! 🚀 
+> Welcome to my digital workshop! 
 > 
 > STATUS: Always building, always learning
 ```
@@ -24,7 +24,7 @@ vinu@mainframe:~$ cat about_me.txt
   <img alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 </p>
 
-<h3 align="center">🚀 Tech Stack Executables</h3>
+<h3 align="center"> Tech Stack Executables</h3>
 <p align="center">
   <img src="scanner.svg" alt="Animated Glowing Line" width="100%" />
 </p>
